@@ -1,7 +1,7 @@
 library('volt-build')
 
 voltToolchain(
-	watt: "v0.1.1-alpha",
-	volta: "v0.1.1-alpha",
-	battery: "v0.1.16",
+	watt: "v0.1.2-alpha",
+	volta: "v0.1.2-alpha",
+	battery: "v0.1.18-alpha",
 )
